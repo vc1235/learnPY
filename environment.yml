@@ -2,3 +2,4 @@ dependencies:
   - python=3
   - pip:
     - gym
+    - tushare
