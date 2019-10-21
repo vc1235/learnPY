@@ -3,7 +3,7 @@
 然后在终端内激活它
 
 ```
-	source activate word2test
+source activate word2test
 ```
 
 然后安装jieba分词
